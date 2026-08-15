@@ -55,8 +55,7 @@
 
 ---
 
-## ✨ About Me
-
+## About Me
 <div align="center">
 
 <img
@@ -166,7 +165,7 @@ Professional online gaming and entertainment platform offering secure, fair and 
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -181,7 +180,7 @@ Professional online gaming and entertainment platform offering secure, fair and 
 
 ---
 
-## 💭 Developer Mindset
+## Developer Mindset
 
 <div align="center">
 
@@ -204,9 +203,6 @@ Professional online gaming and entertainment platform offering secure, fair and 
 />
 
 <br/>
-
-### ⭐ Don't forget to star interesting repositories!
-
 <br/>
 
 <img
