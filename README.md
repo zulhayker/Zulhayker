@@ -69,39 +69,17 @@
 
 <br/>
 
-Saya seorang **developer** yang senang membangun produk digital modern, mengeksplorasi teknologi baru, dan memecahkan masalah nyata menggunakan kode yang **bersih, efisien, dan scalable**.
-
-```javascript
-const zulhayker = {
-  role: "Developer 💻",
-  passion: "Technology 🚀",
-  currentlyLearning: true,
-  loves: [
-    "Clean Code ✨",
-    "Modern UI 🎨",
-    "Automation ⚡",
-    "Building Products 🔨"
-  ],
-  mission: "Turning ideas into reality 🌍"
-};
-```
-
-- 💻 &nbsp;Membangun aplikasi dan pengalaman web modern
-- 🌱 &nbsp;Terus belajar dan berkembang setiap hari
-- 🎯 &nbsp;Fokus pada clean code dan scalable systems
-- ⚡ &nbsp;Menyukai inovasi, automation, dan kreativitas
-- 🚀 &nbsp;Mengubah ide menjadi produk nyata
-- 🧠 &nbsp;Selalu penasaran dengan teknologi baru
+Professional online gaming and entertainment platform offering secure, fair and responsible gaming. Games, promotions and community features for users aged 18
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frontend
+### Languages & Frontend
 
 <img
   src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"
@@ -110,7 +88,7 @@ const zulhayker = {
 
 <br/><br/>
 
-### ⚙️ Backend & Programming
+### Backend & Programming
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,python&theme=dark"
@@ -119,7 +97,7 @@ const zulhayker = {
 
 <br/><br/>
 
-### 🔧 Tools
+### Tools
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
@@ -132,7 +110,7 @@ const zulhayker = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -165,7 +143,7 @@ const zulhayker = {
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -178,11 +156,11 @@ const zulhayker = {
 
 <br/>
 
-- 🔨 &nbsp;Membangun proyek-proyek yang bermanfaat
-- 📈 &nbsp;Meningkatkan kemampuan coding
-- 🔭 &nbsp;Menjelajahi teknologi baru
-- 🤖 &nbsp;Mempelajari automation dan AI
-- 💡 &nbsp;Mengubah ide menjadi produk nyata
+- &nbsp;Membangun proyek-proyek yang bermanfaat
+- &nbsp;Meningkatkan kemampuan coding
+- &nbsp;Menjelajahi teknologi baru
+- &nbsp;Mempelajari automation dan AI
+- &nbsp;Mengubah ide menjadi produk nyata
 
 <br/>
 
