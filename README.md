@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/zulhayker.png" width="180" height="180" style="border-radius:50%;" alt="Profile Picture" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Tetrahedron_chaos_game.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="180" height="180" style="border-radius:50%;" alt="Profile Picture" />
 </p>
 
 <p align="center">
