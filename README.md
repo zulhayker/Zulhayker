@@ -5,14 +5,14 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00D1FF&height=220&section=header&text=ZULHAYKER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Creator&descAlignY=58&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00D1FF&height=220&section=header&text=CHAOSAPI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Creator&descAlignY=58&descSize=18"
   width="100%"
   alt="Zulhayker Header"
 />
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hello%2C+I'm+zulhayker+%F0%9F%91%8B;Developer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%9A%80;Building+Cool+Things+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hello%2C+%F0%9F%91%8B;Developer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%9A%80;Building+Cool+Things+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1"
     alt="Typing SVG"
   />
 </h1>
