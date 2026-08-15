@@ -1,149 +1,34 @@
-<!-- ========================= -->
-<!--      ZULHAYKER PROFILE    -->
-<!-- ========================= -->
 
-<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
+  <samp>Welcome to my Coding Realm! I'm <b><a target="_blank">Hayker.</a></samp>
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
+</h2>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00D1FF&height=220&section=header&text=CHAOSAPI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Tech%20Enthusiast%20%E2%80%A2%20Creator&descAlignY=58&descSize=18"
-  width="100%"
-  alt="Zulhayker Header"
-/>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=435&lines=Computer+Science+MSc+Engineer;Coding+since+11+y%2Fo;Profound+cat+lover;Mobile+%2B+AI;UI%2FUX+Design&center=true" alt="Typing SVG" /></a>
+</p>
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hello%2C+%F0%9F%91%8B;Developer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%9A%80;Building+Cool+Things+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1"
-    alt="Typing SVG"
-  />
-</h1>
 
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Tetrahedron_chaos_game.gif"
-  width="180"
-  height="180"
-  alt="Animated Profile"
-/>
+<p align="center"> 
+  <samp>
+    < 
+    I'm a Igaming developer inspired by art and sustained by CHAOS. 🎨
+    >
+    <br>
+    <br>
+  </samp>
+</p>
 
-<br/><br/>
+<p align="center">
+   <a href="https://chaosapi.pro" target="_blank"><img alt="Website" title="Website" src="https://img.shields.io/badge/Website-c9243c?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white"/></a>
+</p>
 
-<a href="https://github.com/zulhayker">
-  <img
-    src="https://img.shields.io/badge/GITHUB-ZULHAYKER-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+<br />
 
-&nbsp;
-
-<a href="mailto:biwsyndicate@chaosapi.pro">
-  <img
-    src="https://img.shields.io/badge/EMAIL-CONTACT-00D1FF?style=for-the-badge&logo=maildotru&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=zulhayker&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-</div>
-
-<br/>
-
----
-
-## About Me
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&text=Build%20Ideas%20Into%20Reality%20%E2%9C%A8&fontSize=25&fontColor=ffffff&animation=twinkling"
-  width="100%"
-  alt="Build Ideas Into Reality"
-/>
-
-</div>
-
-<br/>
-
-Professional online gaming and entertainment platform offering secure, fair and responsible gaming. Games, promotions and community features for users aged 18
-
-<br/>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Frontend
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"
-  alt="Frontend"
-/>
-
-<br/><br/>
-
-### Backend & Programming
-
-<img
-  src="https://skillicons.dev/icons?i=nodejs,python&theme=dark"
-  alt="Backend"
-/>
-
-<br/><br/>
-
-### Tools
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-  alt="Tools"
-/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=zulhayker&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulhayker&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zulhayker&theme=tokyonight&hide_border=true&border_radius=15"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-
----
-
-## Current Focus
-
+<!-- About Section -->
+ # ᴀʙᴏᴜᴛ ᴍᴇ
+   
 <div align="center">
 
 <img
@@ -155,60 +40,79 @@ Professional online gaming and entertainment platform offering secure, fair and 
 
 <br/>
 
-- &nbsp;Membangun proyek-proyek yang bermanfaat
-- &nbsp;Meningkatkan kemampuan coding
-- &nbsp;Menjelajahi teknologi baru
-- &nbsp;Mempelajari automation dan AI
-- &nbsp;Mengubah ide menjadi produk nyata
+<h2 align="left">Main tech stack</h2>
 
-<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="55" alt="laravel logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
 
----
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
+ 
+</div>
 
-## Contribution Activity
+###
 
-<div align="center">
+<h3 align="left">Additional tools and frameworks</h3>
 
-<img
-  src="https://raw.githubusercontent.com/zulhayker/zulhayker/output/github-contribution-grid-snake-dark.svg"
-  alt="Contribution Snake"
-/>
+###
 
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
 </div>
 
 <br/>
+<br/>
 
----
-
-## Developer Mindset
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=F59E0B&center=true&vCenter=true&repeat=true&width=850&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%94%A5;Every+expert+was+once+a+beginner.+%F0%9F%8C%B1;Ideas+are+easy.+Execution+is+everything.+%E2%9A%A1;Build+something+people+love.+%E2%9D%A4%EF%B8%8F"
-  alt="Developer Quotes"
-/>
-
-</div>
+<hr/>
 
 <br/>
 
----
+<a> 
+    <a href="https://github.com/tara-pogancev"><img alt="CHAOS Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zulhayker&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+    <a href="https://github.com/tara-pogancev"><img alt="Tara's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zulhayker&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+  <br/>
+</a>
 
-<div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=00D1FF&center=true&vCenter=true&repeat=true&width=650&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+awesome!+%F0%9F%9A%80;See+you+around!+%F0%9F%91%8B"
-  alt="Footer Typing"
-/>
-
-<br/>
-<br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,50:2563EB,100:7C3AED&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
-
-</div>
+![Tara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulhayker&custom_title=Chaos%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
